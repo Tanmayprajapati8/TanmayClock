@@ -23,7 +23,7 @@ function draw() {
     stroke("black");
     strokeWeight(10);
     textSize(100);
-    text("Iam Here To Show You Correct Time", width/13, height/4);
+    text("Iam Here To Show You Correct Time", width/14, height/4);
     push();
     fill("white");
     stroke("red");
